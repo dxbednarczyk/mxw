@@ -12,4 +12,5 @@ pub enum Device {
     WiredModelO = 0x2022,
     WiredModelD = 0x2023,
     WiredModelOMinus = 0x2024,
+    ModelD2Pro = 0x2034,
 }
